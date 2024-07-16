@@ -1,6 +1,7 @@
-# React + Vite
+# Food-Crave 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This website is built on mernstack technology and is a restaurant reservation website.
+It allows customers to not waste their time and provides them a reservation functionality.
 
 Currently, two official plugins are available:
 
